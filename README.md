@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # vue项目_万里旅途
 
 #### 介绍
@@ -36,6 +37,10 @@ vue3+vite开发的移动端项目，使用了vant组件库
 4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
 5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
 6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+=======
+# wlTrip
+vue3+vite开发的移动端项目，使用了vant组件库（ps:个人学习项目，未完善版）
+>>>>>>> 305fb2f6221e4ee17af7c70b6cca5bcfd5f553f0
 =======
 # wlTrip
 vue3+vite开发的移动端项目，使用了vant组件库（ps:个人学习项目，未完善版）
